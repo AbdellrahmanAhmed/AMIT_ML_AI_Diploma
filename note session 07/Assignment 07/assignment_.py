@@ -38,7 +38,7 @@ print(f)
 
 """#### Create an array of the integers from 10 to 50"""
 
-ar = np.arange(1,51)
+ar = np.arange(10,51)
 print(ar)
 
 """#### Create an array of all the even integers from 10 to 50"""
