@@ -119,7 +119,6 @@ data = {'title_len':[JobTitle/JobTitle , JobTitle/TotalPayBenefits],
 df = pd.DataFrame(data,index = ['title_len',' TotalPayBenefits'])
 df
 
-"""في حاجة غلط في الجدول تحت المفروض الرقم اقصى اليمين اعلى يكون مقلوب أقصى اليسار أسفل على ما أظن وليس متسوايين"""
 
 
 
